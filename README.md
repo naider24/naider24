@@ -1,6 +1,7 @@
 ## Olá eu sou o  Nicollas !!
 
--Atualmente estudando front end(inciciante)
+-Atualmente estudando react.js 
+-iniciante em front-end
 
 <div align="center">
   <a href="https://github.com/naider24">
