@@ -1,7 +1,7 @@
 ## Olá eu sou o  Nicollas !!
 
-<div><p>Atualmente estudando react.js</p><div>
-<div><p>iniciante em front-end</p><div>
+<div><p>Atualmente a procura de um estagio</p><div>
+<div><p>possuo uma certo conhecimento em react , javascript , html , css , e node.js</p><div>
 
 <div align="center">
   <a href="https://github.com/naider24">
